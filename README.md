@@ -1,5 +1,5 @@
 # dio-ismaelsousa-projeto-flashlight
 
-Projeto desenvolvido nas aulas do professor @ismaelsousa.
+Projeto desenvolvido nas aulas do professor @ismaelsousa
 
-Constuindo um app usando o sensor de movimento com React Native.
+Constuindo um app usando o sensor de movimento com React Native
